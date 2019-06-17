@@ -21,7 +21,6 @@ settings.xml file
     </proxy>
     
   </proxies>
-
     </settings>
     
 mvn --encrypt-master-password
@@ -37,4 +36,4 @@ settings-security.xml in the ~/.m2
 
 mvn --encrypt-password
 
-	put generated in settings.xml
+	Put the generated password  in settings.xml
