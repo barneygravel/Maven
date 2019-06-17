@@ -28,6 +28,7 @@ mvn --encrypt-master-password
 	{kf0fKjrBcDMHYY6xKGZx4d2GoPQhDDkmXSVQCJvYGuk=}
 
 settings-security.xml in the ~/.m2 
+
 	<settingsSecurity>
   	<master>{kf0fKjrBcDMHYY6xKGZx4d2GoPQhDDkmXSVQCJvYGuk=}</master>
 	</settingsSecurity>
